@@ -16,6 +16,24 @@
       "revId": "65b1fc8ec1fcf78ff922a9f468acea81cc03e789",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_c3e1ccd2",
+        "filename": "nicki.mk",
+        "patchSetId": 14
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2016-01-17T00:34:55Z",
+      "side": 0,
+      "message": "Look at my sony_common commit.\n\nI implemented the extract_ramdisk directly into the init executable to avoid having an additional binary to execute, and it performs the same actions.\n\nIf you have the device, pick the 3 common commits and the nicki commit, then test it.\n\nOn huashan, I have the TWRP \u0026 CM recovery so you know.",
+      "parentUuid": "1fcbff3d_03c27434",
+      "revId": "65b1fc8ec1fcf78ff922a9f468acea81cc03e789",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
