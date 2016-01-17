@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_03c27434",
+        "filename": "nicki.mk",
+        "patchSetId": 14
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12314
+      },
+      "writtenOn": "2016-01-17T00:32:18Z",
+      "side": 0,
+      "message": "Remove extract_elf_ramdisk? As TWRP maintainer, it makes me really sad. And not only me, I think. Many users will hate you for this.",
+      "revId": "65b1fc8ec1fcf78ff922a9f468acea81cc03e789",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
