@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2013-2016 The CyanogenMod Project
+#                    2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,7 +15,7 @@
 # limitations under the License.
 #
 
-# Inherit common CM stuff
+# Inherit common Lineage stuff
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configurations
@@ -26,7 +27,7 @@ TARGET_SCREEN_WIDTH := 480
 
 # Device identifications
 PRODUCT_DEVICE := nicki
-PRODUCT_NAME := cm_nicki
+PRODUCT_NAME := lineage_nicki
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_MODEL := nicki

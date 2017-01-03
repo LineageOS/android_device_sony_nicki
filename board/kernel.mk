@@ -6,7 +6,7 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x02000000
 
 # Kernel properties
 TARGET_KERNEL_SOURCE := kernel/sony/msm8x27
-TARGET_KERNEL_CONFIG := cyanogenmod_nicki_defconfig
+TARGET_KERNEL_CONFIG := lineage_nicki_defconfig
 
 # Custom boot
 BOARD_CUSTOM_BOOTIMG := true
