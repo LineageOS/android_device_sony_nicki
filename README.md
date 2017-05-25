@@ -20,4 +20,4 @@ Camera  | 5MPx, LED Flash
 
 ![Sony Xperia M](http://wiki.cyanogenmod.org/images/a/a5/Nicki.png "Sony Xperia M in black")
 
-This branch is for building LineageOS 14.1 (or Android Nougat 7.1 AOSP based roms) ROMS.
+This branch is for building LineageOS 14.1 (or Android Nougat 7.1 AOSP based) ROMS.
